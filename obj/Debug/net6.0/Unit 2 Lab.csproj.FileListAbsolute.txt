@@ -1,0 +1,15 @@
+H:\grand circus\code\Unit 2 Lab\bin\Debug\net6.0\Unit 2 Lab.exe
+H:\grand circus\code\Unit 2 Lab\bin\Debug\net6.0\Unit 2 Lab.deps.json
+H:\grand circus\code\Unit 2 Lab\bin\Debug\net6.0\Unit 2 Lab.runtimeconfig.json
+H:\grand circus\code\Unit 2 Lab\bin\Debug\net6.0\Unit 2 Lab.dll
+H:\grand circus\code\Unit 2 Lab\bin\Debug\net6.0\Unit 2 Lab.pdb
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.csproj.AssemblyReference.cache
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.GeneratedMSBuildEditorConfig.editorconfig
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.AssemblyInfoInputs.cache
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.AssemblyInfo.cs
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.csproj.CoreCompileInputs.cache
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.dll
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\refint\Unit 2 Lab.dll
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.pdb
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\Unit 2 Lab.genruntimeconfig.cache
+H:\grand circus\code\Unit 2 Lab\obj\Debug\net6.0\ref\Unit 2 Lab.dll
